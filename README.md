@@ -14,4 +14,4 @@ This section was merged from a new branch.
 ## Merge Conflicts
 
 Added a section to index.html with a branch that intentionally conflicted with a line added in the main branch. 
-Conflict was resolved and both were added.
+Conflict was resolved and both lines were added.
